@@ -1,6 +1,7 @@
 # Introduction
-A retro game in Python created for coursework at the University of Manchester scored 100%.
-The Submission requires only to submit one python file.
+A retro game in Python created for coursework at the University of Manchester scored 100%. 
+
+The submission requires only to submit one python file.
 
 # Run Code
 ## Python
